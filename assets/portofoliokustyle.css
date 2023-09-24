@@ -1,5 +1,7 @@
 .div1{
     background-image: url(../Image/black\ bg2.jpg);
+    position: absolute; 
+    top: 0;
 }
 .div3{
     background-image: url(../Image/black\ bg.jpg);
